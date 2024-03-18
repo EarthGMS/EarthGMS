@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a hobby game developer and currently developing projects such as Journey to Ranovia. I've developed several web projects using React, such as a bakery website, a tea website. I'm also currently developing and making projects with Arduino.
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning about Arduino (and robotics in the future), and web development using React, and ALSO FRENCH 🔵⚪🔴
+* 🧠  I'm learning about Arduino (and robotics in the future), and ALSO FRENCH 🔵⚪🔴
 
 ### Skills
 

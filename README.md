@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hello, I'm Pongsapat Boonpong, or "Earth" as a nickname, I'm a computer<br>engineering student at the Bangkok University, who is interested mainly on<br>embedded systems.
 
+My current projects:
+-The Matsuzaka Computer Project (The 16-bit computer, developed from May 2026 to May 2027)
+-The Minami Rocket Project (just a hobby project, progress is inconsistant)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pongsapatboon) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pongsapatboonpong) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pongsapatboon) 

@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hello, I'm Pongsapat Boonpong, or "Earth" as a nickname, I'm a computer<br>engineering student at the Bangkok University, who is interested mainly on<br>embedded systems.
 
-My current projects:
--The Matsuzaka Computer Project (The 16-bit computer, developed from May 2026 to May 2027)
--The Minami Rocket Project (just a hobby project, progress is inconsistant)
+My current projects:<br>
+-The Matsuzaka Computer Project (The 16-bit computer, developed from May 2026 to May 2027)<br>
+-The Minami Rocket Project (just a hobby project, progress is inconsistant)<br>
 
 
 ## 🌐 Socials:
